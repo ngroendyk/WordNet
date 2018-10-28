@@ -32,7 +32,6 @@
 *.app
 
 #specific repo rules
-Makefile
 config.h
 config.log
 config.status
@@ -40,4 +39,7 @@ stamp-h1
 *.Po
 wishwn
 wn
+lib/Makefile
+lib/wnres/Makefile
+src/Makefile
 
