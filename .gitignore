@@ -33,4 +33,11 @@
 
 #specific repo rules
 Makefile
+config.h
+config.log
+config.status
+stamp-h1
+*.Po
+wishwn
+wn
 
